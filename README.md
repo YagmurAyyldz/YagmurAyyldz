@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋, I'm Yağmur!</h1>
 <h3 align="left">A passionate QA Engineer</h3>
 
-- 🔭 I’m currently working on **Manuel and Automation Testing **
+- 🔭 I’m currently working on **Manuel and Automation Testing**
 
 - 🌱 I’m currently learning **Cypress and Selenium**
 
